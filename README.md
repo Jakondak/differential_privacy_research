@@ -9,11 +9,8 @@ Differential privacy is a system for publicly sharing information about a datase
 This research takes a look at the two main models of differential privacy: ε-differential privacy and (ε, δ) -
 differential privacy. 
 
----
 
 ## Table of Contents
-
----
 
 **1) DP_research.pdf**: review article describes accuracy results depending on variable parameters in differential privacy in classical and deep learning models
 
