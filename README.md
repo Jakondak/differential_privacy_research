@@ -15,8 +15,8 @@ differential privacy.
 **1) DP_research.pdf**: review article describes accuracy results depending on variable parameters in differential privacy in classical and deep learning models
 
 
-**2)dp_in_deep_learning.ipynb**: Jupyter Notebook with deep leaning models and final accuracy results
+**2) dp_in_deep_learning.ipynb**: Jupyter Notebook with deep leaning models and final accuracy results
 
 
-**3)classic_methods.ipynb**: Jupyter Notebook classical linear models and final accuracy results
+**3) classic_methods.ipynb**: Jupyter Notebook classical linear models and final accuracy results
 
