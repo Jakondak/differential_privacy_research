@@ -1,5 +1,25 @@
-# differential_privacy_research
+# Differential privacy research
 
-**What is Differential Privacy?**  
+---
 
-Imagine that all companies, universities, medical centers can share data containing sensitive or confidential information about individuals, Apple and Google can analyze the text that users type on their keyboard every day and make a better product using this without big data breaches. We can do it with differential privacy methods. Suppose we have a database and want to return output (e.g. Number of users with blue eyes). But we should do it only in a private way. To make the differential privacy process you need to add random values or noise. How exactly to add it and how much depends on a particular task. Differential privacy provides a mathematically rigorous definition of privacy and is one of the strongest guarantees of privacy available. It is rooted in the idea that carefully calibrated noise can mask a user’s data. When many people submit data, the noise that has been added averages out and meaningful information emerges. Let's take a look at the two main models of differential privacy: ε-differential privacy and (ε, δ) - differential privacy. In a nutshell, the main difference between the models is that the second one assumes the possibility that the attacker can get the whole database into possession where the DP will not work, i.e. it is possible that a very bad case will happen.
+## What is it?
+
+Differential privacy is a system for publicly sharing information about a dataset by describing the patterns of groups within the dataset while withholding information about individuals in the dataset. The idea behind differential privacy is that if the effect of making an arbitrary single substitution in the database is small enough, the query result cannot be used to infer much about any single individual, and therefore provides privacy. 
+
+This research takes a look at the two main models of differential privacy: ε-differential privacy and (ε, δ) -
+differential privacy. 
+
+---
+
+## Table of Contents
+
+---
+
+**1) DP_research.pdf**: review article describes accuracy results depending on variable parameters in differential privacy in classical and deep learning models
+
+
+**2)dp_in_deep_learning.ipynb**: Jupyter Notebook with deep leaning models and final accuracy results
+
+
+**3)classic_methods.ipynb**: Jupyter Notebook classical linear models and final accuracy results
+
