@@ -23,6 +23,6 @@ differential privacy.
 
 ## How to start
 
-**1) dp_in_deep_learning.ipynb***: Get results using deep leaning models
+**1) dp_in_deep_learning.ipynb**: Get results using deep leaning models
 
-**2) classic_methods.ipynb***:  Get results using linear models
+**2) classic_methods.ipynb**:  Get results using linear models
