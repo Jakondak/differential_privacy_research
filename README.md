@@ -20,3 +20,9 @@ differential privacy.
 
 **3) classic_methods.ipynb**: Jupyter Notebook with classical linear models and final accuracy results
 
+
+## How to start
+
+**1) dp_in_deep_learning.ipynb***: Get results using deep leaning models
+
+**2) classic_methods.ipynb***:  Get results using linear models
